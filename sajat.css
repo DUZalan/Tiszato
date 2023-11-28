@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.szoveg {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+    text-indent: 30px;
+    text-align: justify;
+}
+
+#hivatkozas:hover {
+    background-color: rgb(125, 182, 246);
+}
+
+img {
+    width: 300px;
+}
